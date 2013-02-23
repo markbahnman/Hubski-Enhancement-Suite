@@ -10,7 +10,7 @@ There are many ways you can help out:
 
 Note that this is still very much a work in progress - I'd call it pre-alpha. Also notable is that this extension is currently only a user script - when it's been tested thoroughly and become more feature complete, I'll compile it into browser extensions for popular browsers.
 
-Check back here regularity as I release updates (currently you'll have to manually update), and I'll also be using the #[enhancement](http://hubski.com/tag?id=enhancement) tag for release notes & other relevant information - so follow that if you wish.
+Check back here regularity as I release updates (currently you'll have to manually update), and I'll also be using the [#enhancement](http://hubski.com/tag?id=enhancement) tag for release notes & other relevant information - so follow that if you wish.
 
 # Implemented Features
 
